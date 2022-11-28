@@ -5,10 +5,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class DemoApplicationController {
-	@GetMapping("/listar")
-	
+	@GetMapping("/listar")	
 	public String metodo(){
 		return "api ok!";
 	}
-
 }
