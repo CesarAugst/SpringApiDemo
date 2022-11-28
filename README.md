@@ -1,7 +1,4 @@
 # SpringApiDemo
-Projeto usado para praticar spring em aula Impacta
-
-# python_crud_routes_web
 Atividade realizada para prática da linguagem Java usando framework Spring, consiste em uma api de exemplo para consumo local.
 
 # Alunos envolvidos
